@@ -7,7 +7,7 @@ Apply Machine learning algorithms like Churn Prediction, Customer Segmentation e
 3. Run Jupyter Notebook `jupyter-notebook`
 4. Open corresponding file e.g. `churn_prediction.ipynb`.
 
-## Toots and libraries used:
+## Tools and libraries used:
 The project is writtern in `Python3` with `Scikit-learn` and `Pandas`.
 
 ## Dataset:
